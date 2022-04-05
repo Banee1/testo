@@ -7,7 +7,7 @@
         "EzAPI": "Online",
         "EzLauncher": "Online"
     },
-    "LatestVersion": "https://raw.githubusercontent.com/debug420/Ez-Hub/master/EzHub.lua",
+    "LatestVersion": "https://raw.githubusercontent.com/Banee1/testo/main/script.lua",
     "Themes": {
         "Default": {
             "ThemeIndex": 1,
